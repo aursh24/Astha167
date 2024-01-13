@@ -1,3 +1,5 @@
+[![An image of @astha167's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/astha167)](https://holopin.io/@astha167)
+
 <h1 align="center">Hi 👋, I'm Astha Kumari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -26,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astha167&" alt="astha167" /></p>
 
-[![An image of @astha167's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/astha167)](https://holopin.io/@astha167)
+
