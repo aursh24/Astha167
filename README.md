@@ -1,6 +1,11 @@
 [![An image of @astha167's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/astha167)](https://holopin.io/@astha167)
 
 <h1 align="center">Hi 👋, I'm Astha Kumari</h1>
+<p align="center">
+<img
+align = "center" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwwZ3k3NHR5M3JrOHE3eG9vdzNydGJvbHh0b2d4ZjUyb3pvazNhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5K7ngCtszoxxbaBieC/giphy.gif" width="180" height="180"/>
+</p>
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astha167&label=Profile%20views&color=0e75b6&style=flat" alt="astha167" /> </p>
