@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Astha Kumari</h1>
 <p align="center">
 <img
-align = "center" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRzZ2Nid2dieXlkNmxndWd6eW5hcmxyYnJuaTZicTBkcHI3aHJwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fl4MZmeXzPfrYh4FeR/giphy.gif" width="180" height="180"/>
+align = "center" src=https://media1.giphy.com/media/C7Gj216EwEi4/giphy.gif?cid=ecf05e47sret1x11u0e37ea1iu7ndl3bj9go0g83u4u1k5h9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" height="180"/>
 </p>
 <h3 align="center">A passionate full stack developer from India</h3>
 
