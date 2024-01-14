@@ -6,6 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astha167&label=Profile%20views&color=0e75b6&style=flat" alt="astha167" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha167" alt="astha167" /></a> </p>
+<p align="center">
+<img
+align = "center" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwwZ3k3NHR5M3JrOHE3eG9vdzNydGJvbHh0b2d4ZjUyb3pvazNhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5K7ngCtszoxxbaBieC/giphy.gif" width="100" height="100"/>
+</p>
 
 - 🌱 I’m currently learning **C,Java,C++,Python,HTML**
 
